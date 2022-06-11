@@ -1,0 +1,11 @@
+._register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+._register > * {
+    margin-top: 10px;
+}
